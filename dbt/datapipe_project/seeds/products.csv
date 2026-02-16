@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,price,cost,is_active,created_at,updated_at
+101,T-Shirt,Clothing,BrandA,19.99,10.00,True,2023-01-01,2024-01-01 08:12:00
+102,Jeans,Clothing,BrandB,49.99,25.00,True,2023-01-02,2024-01-01 09:45:00
+103,Sneakers,Shoes,BrandC,9.99,5.00,True,2023-01-03,2024-01-01 11:20:00
+104,Jacket,Clothing,BrandD,199.99,120.00,True,2023-01-04,2024-01-02 10:15:00
+105,Backpack,Accessories,BrandE,29.99,15.00,True,2023-01-05,2024-01-02 13:40:00
+106,Watch,Accessories,BrandF,99.99,50.00,True,2023-01-06,2024-01-02 15:05:00
+107,Hat,Clothing,BrandG,14.99,7.00,True,2023-01-07,2024-01-03 08:30:00
+108,Socks,Clothing,BrandH,49.99,25.00,True,2023-01-08,2024-01-03 09:10:00
+109,Sandals,Shoes,BrandI,79.99,40.00,True,2023-01-09,2024-01-03 10:50:00
+110,Belt,Accessories,BrandJ,24.99,12.00,True,2023-01-10,2024-01-03 12:30:00
+111,Scarf,Clothing,BrandK,19.99,10.00,True,2023-01-11,2024-01-04 08:00:00
+112,Gloves,Clothing,BrandL,29.99,15.00,True,2023-01-12,2024-01-04 09:45:00
+113,Sneakers,Shoes,BrandM,49.99,25.00,True,2023-01-13,2024-01-04 11:20:00
+114,Jacket,Clothing,BrandN,149.99,90.00,True,2023-01-14,2024-01-04 12:50:00
+115,Backpack,Accessories,BrandO,39.99,20.00,True,2023-01-15,2024-01-05 08:15:00
+116,Watch,Accessories,BrandP,109.99,55.00,True,2023-01-16,2024-01-05 09:40:00
+117,Hat,Clothing,BrandQ,12.99,6.00,True,2023-01-17,2024-01-05 11:20:00
+118,Socks,Clothing,BrandR,44.99,22.00,True,2023-01-18,2024-01-05 12:50:00
+119,Sandals,Shoes,BrandS,74.99,35.00,True,2023-01-19,2024-01-06 08:10:00
+120,Belt,Accessories,BrandT,19.99,10.00,True,2023-01-20,2024-01-06 09:45:00

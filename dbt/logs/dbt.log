@@ -1,0 +1,30 @@
+[0m20:48:23.680298 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d45f7d4bd60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d45f6c0b9d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d45f6c0b970>]}
+
+
+============================== 20:48:23.683509 | 2a5599b4-bc8f-4612-b095-cfb05cdb2379 ==============================
+[0m20:48:23.683509 [info ] [MainThread]: Running with dbt=1.11.5
+[0m20:48:23.684125 [debug] [MainThread]: running dbt with arguments {'quiet': 'False', 'profiles_dir': '/home/cipherray/.dbt', 'introspect': 'True', 'use_colors': 'True', 'log_format': 'default', 'debug': 'False', 'empty': 'None', 'write_json': 'True', 'version_check': 'True', 'printer_width': '80', 'no_print': 'None', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'fail_fast': 'False', 'cache_selected_only': 'False', 'log_path': 'logs', 'indirect_selection': 'eager', 'send_anonymous_usage_stats': 'True', 'partial_parse': 'True', 'warn_error': 'None', 'log_cache_events': 'False', 'use_experimental_parser': 'False', 'static_parser': 'True', 'invocation_command': 'dbt init'}
+[0m20:48:32.290374 [debug] [MainThread]: Starter project path: /media/cipherray/02c39ea1-88a8-4d51-b7a6-b20215b1d9644/Workspace/AEP/datapipe_project/venv/lib/python3.10/site-packages/dbt/include/starter_project
+[0m20:48:32.293378 [info ] [MainThread]: 
+Your new dbt project "datapipe_project" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m20:48:32.293964 [info ] [MainThread]: Setting up your profile.
+[0m20:48:59.367314 [info ] [MainThread]: Profile datapipe_project written to /home/cipherray/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m20:48:59.378915 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 35.764458, "process_in_blocks": "80", "process_kernel_time": 0.081019, "process_mem_max_rss": "100132", "process_out_blocks": "88", "process_user_time": 1.416333}
+[0m20:48:59.379743 [debug] [MainThread]: Command `dbt init` succeeded at 20:48:59.379558 after 35.77 seconds
+[0m20:48:59.380419 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d45f7d4bd60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d45f6c0b940>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7d45f6c0b910>]}
+[0m20:48:59.381373 [debug] [MainThread]: Flushing usage events
+[0m20:49:03.558613 [debug] [MainThread]: An error was encountered while trying to flush usage events

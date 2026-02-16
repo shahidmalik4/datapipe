@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,city,country,signup_date,customer_segment,is_active,updated_at
+1,John,Doe,john.doe@email.com,New York,USA,2023-01-01,Regular,True,2024-01-01 08:12:00
+2,Jane,Smith,jane.smith@email.com,Los Angeles,USA,2023-01-02,VIP,True,2024-01-01 09:45:00
+3,Emily,Johnson,emily.johnson@email.com,Chicago,USA,2023-01-03,Regular,True,2024-01-01 11:20:00
+4,Michael,Brown,michael.brown@email.com,Houston,USA,2023-01-04,Regular,True,2024-01-02 10:15:00
+5,Linda,Davis,linda.davis@email.com,Phoenix,USA,2023-01-05,VIP,True,2024-01-02 13:40:00
+6,William,Miller,william.miller@email.com,Philadelphia,USA,2023-01-06,Regular,True,2024-01-02 15:05:00
+7,Elizabeth,Wilson,elizabeth.wilson@email.com,San Antonio,USA,2023-01-07,Regular,True,2024-01-03 08:30:00
+8,David,Moore,david.moore@email.com,San Diego,USA,2023-01-08,VIP,True,2024-01-03 09:10:00
+9,Jennifer,Taylor,jennifer.taylor@email.com,Dallas,USA,2023-01-09,Regular,True,2024-01-03 10:50:00
+10,Richard,Anderson,richard.anderson@email.com,San Jose,USA,2023-01-10,Regular,True,2024-01-03 12:30:00
+11,Susan,Thomas,susan.thomas@email.com,Austin,USA,2023-01-11,VIP,True,2024-01-04 08:00:00
+12,Joseph,Jackson,joseph.jackson@email.com,Jacksonville,USA,2023-01-12,Regular,True,2024-01-04 09:20:00
+13,Mary,White,mary.white@email.com,Fort Worth,USA,2023-01-13,Regular,True,2024-01-04 10:45:00
+14,Charles,Harris,charles.harris@email.com,Columbus,USA,2023-01-14,VIP,True,2024-01-04 12:15:00
+15,Patricia,Martin,patricia.martin@email.com,Charlotte,USA,2023-01-15,Regular,True,2024-01-05 08:50:00
+16,Christopher,Lee,christopher.lee@email.com,San Francisco,USA,2023-01-16,Regular,True,2024-01-05 09:30:00
+17,Karen,Clark,karen.clark@email.com,Indianapolis,USA,2023-01-17,VIP,True,2024-01-05 11:10:00
+18,Nancy,Lewis,nancy.lewis@email.com,Seattle,USA,2023-01-18,Regular,True,2024-01-05 12:50:00
+19,Daniel,Robinson,daniel.robinson@email.com,Denver,USA,2023-01-19,Regular,True,2024-01-06 08:15:00
+20,Lisa,Walker,lisa.walker@email.com,Washington,USA,2023-01-20,VIP,True,2024-01-06 09:45:00
+21,Mark,Hall,mark.hall@email.com,Boston,USA,2023-01-21,Regular,True,2024-01-06 11:20:00
+22,Barbara,Allen,barbara.allen@email.com,El Paso,USA,2023-01-22,Regular,True,2024-01-06 12:50:00
+23,Steven,Young,steven.young@email.com,Detroit,USA,2023-01-23,VIP,True,2024-01-07 08:00:00
+24,Sandra,Hernandez,sandra.hernandez@email.com,Nashville,USA,2023-01-24,Regular,True,2024-01-07 09:20:00
+25,Kevin,King,kevin.king@email.com,Memphis,USA,2023-01-25,Regular,True,2024-01-07 10:50:00
+26,Donna,Wright,donna.wright@email.com,Baltimore,USA,2023-01-26,VIP,True,2024-01-08 08:15:00
+27,Brian,Lopez,brian.lopez@email.com,Milwaukee,USA,2023-01-27,Regular,True,2024-01-08 09:45:00
+28,Michelle,Hill,michelle.hill@email.com,Albuquerque,USA,2023-01-28,Regular,True,2024-01-08 11:20:00
+29,Edward,Scott,edward.scott@email.com,Tucson,USA,2023-01-29,VIP,True,2024-01-08 12:50:00
+30,Carol,Green,carol.green@email.com,Fresno,USA,2023-01-30,Regular,True,2024-01-09 08:00:00
