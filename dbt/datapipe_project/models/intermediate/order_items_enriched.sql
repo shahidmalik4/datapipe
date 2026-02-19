@@ -1,4 +1,3 @@
--- models/intermediate/order_items_enriched.sql
 SELECT
     o.order_id,
     o.order_item_id,
