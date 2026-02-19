@@ -1,4 +1,3 @@
--- models/intermediate/customer_orders.sql
 WITH orders_summary AS (
     SELECT
         customer_id,
