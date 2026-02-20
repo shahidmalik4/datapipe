@@ -13,6 +13,6 @@ SELECT
     o.payment_method,
     o.order_ts,
     o.shipping_ts
-FROM {{ ref('orders') }} o
-LEFT JOIN {{ ref('products') }} p
+FROM {{ ref('stg_orders') }} o
+LEFT JOIN {{ ref('stg_products') }} p
     ON o.product_id = p.product_id

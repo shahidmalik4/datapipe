@@ -4,7 +4,7 @@ WITH orders_summary AS (
         COUNT(DISTINCT order_id) AS total_orders,
         SUM(total_price) AS total_spent,
         MAX(order_ts) AS last_order_date
-    FROM {{ ref('orders') }}
+    FROM {{ ref('stg_orders') }}
     GROUP BY customer_id
 )
 SELECT
@@ -20,6 +20,6 @@ SELECT
     o.total_orders,
     o.total_spent,
     o.last_order_date
-FROM {{ ref('customers') }} c
+FROM {{ ref('stg_customers') }} c
 LEFT JOIN orders_summary o
     ON c.customer_id = o.customer_id
